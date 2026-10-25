@@ -1,0 +1,12 @@
+{
+  "alarm": true,
+  "bag": false,
+  "tank": true,
+  "candy": true,
+  "wellsee": false,
+  "weather": "clear",
+  "resolve": 60,
+  "temptation": 40,
+  "volatility": "restless",
+  "arrived": false
+}
